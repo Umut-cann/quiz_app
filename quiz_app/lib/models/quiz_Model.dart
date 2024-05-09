@@ -1,12 +1,12 @@
 
-//import 'package:flutter/cupertino.dart';
+
 
 class QuestionModel {
   final String id;
    final  String text;
   final List<String> options;
 
-  // int yap
+
   final int correctOptionIndex;
   final String category;
 
